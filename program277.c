@@ -9,6 +9,7 @@ void DisplayR(int iNo)
         DisplayR(iNo);
     }
     printf("End of DisplayR\n");
+    // Print this message after recursion unwinds (when iNo < 1) (Stack remover)
 }
 
 int main()
