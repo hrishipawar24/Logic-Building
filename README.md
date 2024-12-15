@@ -103,13 +103,15 @@
 
 ---
 
-### 17:-   
-- **Programme**:  
+### 17:-  14/12/2024
+- **Programme**:  295 to 303
+- Topic :- Data Structure Link List
 
 ---
 
-### 18:-   
-- **Programme**:  
+### 18:-   15/12/2024
+- **Programme**: 304 to 311
+- Topic :- Link List 8 Types
 
 ---
 
