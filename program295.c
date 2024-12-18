@@ -1,18 +1,22 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include<stdio.h> // Include the standard input/output library for printf function
+#include<stdlib.h> // Include the standard library for general utility functions (not used in this program)
 
-#pragma pack(1) // This directive disables padding in the structure
+// Disable padding, ensuring the structure members are tightly packed
+#pragma pack(1)
+
+// Define a structure named 'node'
 struct node
 {
-    int data;
-    struct node *next;
+    int data; // An integer variable to store data
+    struct node *next; // A pointer to another 'node' structure (used for linked lists)
 };
 
-int main()
+int main() // Main function, the entry point of the program
 {
-    struct node obj;
+    struct node obj; // Declare a variable 'obj' of type 'struct node'
 
-    printf("Size of node is : %d",sizeof(obj));
+    // Calculate and print the size of the 'obj' structure
+    printf("Size of node is : %d", sizeof(obj)); 
 
-    return 0;
+    return 0; // Return 0 to indicate successful program execution
 }
