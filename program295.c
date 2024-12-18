@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#pragma pack(1)
+#pragma pack(1) // This directive disables padding in the structure
 struct node
 {
     int data;
