@@ -1,4 +1,5 @@
 #include<stdio.h> // Include the standard input/output library for printf function
+//Functions like malloc(), calloc(), realloc(), and free() are declared here for dynamic memory management.
 #include<stdlib.h> // Include the standard library for general utility functions (not used in this program)
 
 // Disable padding, ensuring the structure members are tightly packed
