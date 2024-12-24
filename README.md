@@ -111,19 +111,20 @@
 
 ### 18:-   15/12/2024
 - **Programme**: 304 to 311
-- Topic :- Link List 8 Types
+- Topic :- Singly Linked List out of 8 Types 6 Types
 
 ---
 
 ### 19:-  21/12/2024
 - **Programme**:  312 to 317
-- Doubly linear link list
+- Topic :- Singly Linked List out of 8 Types Remaning 2 Types
+- Topic :- Doubly Linear Linked List of 8 Types
 
 ---
 
-### 20:- 
+### 20:- 22/12/2024
 - **Programme**:  318 to 338
-- 
+- Topic :- Doubly Linear Linked List of 8 Types
 
 ---
 
