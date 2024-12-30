@@ -116,30 +116,33 @@
 ---
 
 ### 19:-  21/12/2024
-- **Programme**:  312 to 317
+- **Programme**:  312 to 322
 - Topic :- Singly Linked List out of 8 Types Remaning 2 Types
 - Topic :- Doubly Linear Linked List of 8 Types
 
 ---
 
 ### 20:- 22/12/2024
-- **Programme**:  318 to 338
+- **Programme**:  323 to 338
 - Topic :- Doubly Linear Linked List of 8 Types
 
 ---
 
-### 21:- 
-- **Programme**:  
+### 21:- 28/12/2024
+- **Programme**: 339 to 354
+- Topic :- Singly Circular Link List 
 
 ---
 
-### 22:- 
-- **Programme**:  
+### 22:- 29/12/2024
+- **Programme**:  355 to 373
+- Topic :- Doubly Circular Link List 
 
 ---
 
-### 23:- 
-- **Programme**:  
+### 23:- 04/01/2025
+- **Programme**:  374 to 400
+- Topic :-
 
 ---
 
