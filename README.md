@@ -141,43 +141,54 @@
 ---
 
 ### 23:- 04/01/2025
-- **Programme**:  374 to 400
-- Topic :-
+- **Programme**:  374 to 387
+- Topic :- Stack
+- Topic :- Queue
+- Topic :- Binary Search Tree
 
 ---
 
-### 24:- 
-- **Programme**:  
+### 24:- 05/01/2025
+- **Programme**:  388 to 414
+- Topic :- Backtracking
+- Topic :- Generic Programming
+- Topic :- Project- Standerd Template library in cpp
 
 ---
 
-### 25:- 
-- **Programme**:  
+### 25:- 06/01/2025
+- **Programme**: 415 to 442
+- Topic :- Operation on file handelimg in C Language
 
 ---
 
-### 26:-  
-- **Programme**:  
+### 26:-  07/01/2025
+- **Programme**:  00
+- Topic :- Customized File System (Theory) 
 
 ---
 
-### 27:- 
-- **Programme**:  
+### 27:- 08/01/2025
+- **Programme**:
+- Topic :- Project Explination on file handelimg in cpp Language
 
 ---
 
 ### 28:- 
-- **Programme**:  
+- **Programme**:
+- Topic :-
 
 ---
 
 ### 29:- 
-- **Programme**:  
+- **Programme**:
+- Topic :-
 
 ---
 
 ### 30:- 
-- **Programme**:  
+- **Programme**:
+- Topic :-
 
 ---
 
