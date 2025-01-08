@@ -170,7 +170,7 @@
 
 ### 27:- 08/01/2025
 - **Programme**:
-- Topic :- Project Explination on file handelimg in cpp Language
+- Topic :- Project Explanation on file handelimg in cpp Language
 
 ---
 
