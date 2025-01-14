@@ -164,31 +164,32 @@
 
 ### 26:-  07/01/2025
 - **Programme**:  00
-- Topic :- Customized File System (Theory) 
+- Topic :- Customized Virtual File System (Theory) 
 
 ---
 
 ### 27:- 08/01/2025
 - **Programme**:
-- Topic :- Project Explanation on file handelimg in cpp Language
+- Topic :- CVSF Project Explanation on file handelimg in C Language and Diagram
 
 ---
 
 ### 28:- 
 - **Programme**:
-- Topic :-
+- Topic :-CVSF Project Explanation and Project Run in C Language and Diagrams
 
 ---
 
 ### 29:- 
 - **Programme**:
-- Topic :-
+- Topic :-Operation on file handelimg in Java Language
+
 
 ---
 
 ### 30:- 
 - **Programme**:
-- Topic :-
+- Topic :-Packer and Unpacker Project Explanation on file handelimg in Java Language and Diagrams (It's Like Zip and Unzip File)
 
 ---
 
