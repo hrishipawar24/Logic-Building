@@ -194,28 +194,32 @@
 ---
 
 ### 31:- 15/01/2025
-- **Programme**:  501 to 510
-- Topic :-
+- **Programme**:  501 to 521
+- Topic :- All Data Structure in Java
 
 ---
 
 ### 32:- 16/01/2025
-- **Programme**:  
+- **Programme**:  521 to
+- Topic :-
 
 ---
 
-### 33:- 
-- **Programme**:  
+### 33:- 18/01/2025
+- **Programme**:
+- Topic :-  
 
 ---
 
-### 34:- 
-- **Programme**:  
+### 34:- 19/01/2025
+- **Programme**:
+- Topic :- 
 
 ---
 
 ### 35:- 
-- **Programme**:  
+- **Programme**:
+- Topic :-
 
 ---
 
