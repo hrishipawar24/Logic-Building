@@ -200,20 +200,29 @@
 ---
 
 ### 32:- 16/01/2025
-- **Programme**:  521 to
-- Topic :-
+- **Programme**:  522 to 534
+- Topic :- Serching
+- 1) Linear Search
+- 2) Bidirectional Search
+- 3) Binary Search
+  
+- Topic :- Sorting
+- 1) Bubble Sort
+- 2) Selection Sort
+- 3) Insertion Sort
+
 
 ---
 
 ### 33:- 18/01/2025
-- **Programme**:
-- Topic :-  
+- **Programme**:  535 to 570
+- Topic :- Project Create Own DBMS Like SQL
 
 ---
 
 ### 34:- 19/01/2025
-- **Programme**:
-- Topic :- 
+- **Programme**:  571 to 601
+- Topic :- Matrix , 2D Array
 
 ---
 
@@ -222,4 +231,5 @@
 - Topic :-
 
 --- --- ---
+-- THE - END --
 --- --- ---
